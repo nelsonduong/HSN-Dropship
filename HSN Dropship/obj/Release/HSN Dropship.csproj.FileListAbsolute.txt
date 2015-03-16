@@ -1,0 +1,23 @@
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\bin\Release\HSN Dropship.exe.config
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\bin\Release\HSN Dropship.exe
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\bin\Release\HSN Dropship.pdb
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\bin\Release\MySql.Data.dll
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Release\HSN_Dropship.HSNDropship.resources
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Release\HSN_Dropship.POVerify.resources
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Release\HSN_Dropship.Properties.Resources.resources
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Release\HSN Dropship.csproj.GenerateResource.Cache
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Release\HSN Dropship.exe
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Release\HSN Dropship.pdb
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Release\HSN Dropship.csprojResolveAssemblyReference.cache
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Release\HSN_Dropship.ResultSet.resources
+C:\Users\admin\Google Drive\C#Dev\HSN Dropship\HSN Dropship\bin\Release\HSN Dropship.exe.config
+C:\Users\admin\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Release\HSN Dropship.exe
+C:\Users\admin\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Release\HSN Dropship.pdb
+C:\Users\admin\Google Drive\C#Dev\HSN Dropship\HSN Dropship\bin\Release\HSN Dropship.exe
+C:\Users\admin\Google Drive\C#Dev\HSN Dropship\HSN Dropship\bin\Release\HSN Dropship.pdb
+C:\Users\admin\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Release\HSN Dropship.csprojResolveAssemblyReference.cache
+C:\Users\admin\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Release\HSN_Dropship.HSNDropship.resources
+C:\Users\admin\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Release\HSN_Dropship.POVerify.resources
+C:\Users\admin\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Release\HSN_Dropship.Properties.Resources.resources
+C:\Users\admin\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Release\HSN_Dropship.ResultSet.resources
+C:\Users\admin\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Release\HSN Dropship.csproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\bin\Debug\HSN Dropship.exe.config
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Debug\HSN Dropship.csprojResolveAssemblyReference.cache
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Debug\HSN_Dropship.Properties.Resources.resources
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Debug\HSN Dropship.csproj.GenerateResource.Cache
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\bin\Debug\HSN Dropship.exe
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\bin\Debug\HSN Dropship.pdb
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Debug\HSN Dropship.exe
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Debug\HSN Dropship.pdb
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Debug\HSN_Dropship.HSNDropship.resources
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\bin\Debug\MySql.Data.dll
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Debug\HSN_Dropship.POVerify.resources
+C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Debug\HSN_Dropship.ResultSet.resources
