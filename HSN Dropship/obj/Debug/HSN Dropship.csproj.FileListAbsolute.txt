@@ -10,3 +10,6 @@ C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Debug\HSN_Drops
 C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\bin\Debug\MySql.Data.dll
 C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Debug\HSN_Dropship.POVerify.resources
 C:\Users\NELSON\Google Drive\C#Dev\HSN Dropship\HSN Dropship\obj\Debug\HSN_Dropship.ResultSet.resources
+C:\Users\NELSON\Documents\C#Dev\HSN-Dropship\HSN Dropship\bin\Debug\HSN Dropship.exe.config
+C:\Users\NELSON\Documents\C#Dev\HSN-Dropship\HSN Dropship\obj\Debug\HSN Dropship.exe
+C:\Users\NELSON\Documents\C#Dev\HSN-Dropship\HSN Dropship\obj\Debug\HSN Dropship.pdb
