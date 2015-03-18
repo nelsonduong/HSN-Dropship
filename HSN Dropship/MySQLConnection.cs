@@ -16,7 +16,7 @@ namespace HSN_Dropship
 
         public static void HSNDropship_Load(object sender, EventArgs e)
         {
-            server = "198.46.137.123"; database = "dropship"; uid = "nelson"; password = "nelsonvldb";
+            server = "192.168.1.203"; database = "dropship"; uid = "dropship"; password = "ds2db";
             string conNVLDB;
             conNVLDB = "SERVER=" + server + ";" + "DATABASE=" + database + ";" + "UID=" + uid + ";" + "PASSWORD=" + password + ";" + "Allow User Variables=True" + ";" + "convert zero datetime=True" + ";";
 
