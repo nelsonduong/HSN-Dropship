@@ -13,10 +13,11 @@ namespace HSN_Dropship
         public static string server, database, uid, password;
         public static MySqlConnection connection;
 
-
+        //198.46.137.123
+        //96.229.127.8
         public static void HSNDropship_Load(object sender, EventArgs e)
         {
-            server = "192.168.1.203"; database = "dropship"; uid = "dropship"; password = "ds2db";
+            server = "visual-land.com"; database = "dropship"; uid = "dropship"; password = "ds2db";
             string conNVLDB;
             conNVLDB = "SERVER=" + server + ";" + "DATABASE=" + database + ";" + "UID=" + uid + ";" + "PASSWORD=" + password + ";" + "Allow User Variables=True" + ";" + "convert zero datetime=True" + ";";
 
@@ -29,8 +30,8 @@ namespace HSN_Dropship
             try
             {
                 connection.Open();
-                MySqlCommand cmd = new MySqlCommand("set net_write_timeout=99999999; set net_read_timeout=99999999; set global wait_timeout = 99999999;", connection); // Setting timeout on mysqlServer
-                cmd.ExecuteNonQuery();
+                //MySqlCommand cmd = new MySqlCommand("set net_write_timeout=99999999; set net_read_timeout=99999999; set global wait_timeout = 99999999;", connection); // Setting timeout on mysqlServer
+                //cmd.ExecuteNonQuery();
                 return true;
             }
             catch (MySqlException ex)
