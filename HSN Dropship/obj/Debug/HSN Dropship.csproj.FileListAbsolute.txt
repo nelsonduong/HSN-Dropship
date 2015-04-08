@@ -16,7 +16,6 @@ C:\Users\NELSON\Documents\C#Dev\HSN-Dropship\HSN Dropship\obj\Debug\HSN Dropship
 C:\Users\NELSON\Documents\C#Dev\HSN-Dropship\HSN Dropship\bin\Debug\HSN Dropship.exe
 C:\Users\NELSON\Documents\C#Dev\HSN-Dropship\HSN Dropship\bin\Debug\HSN Dropship.pdb
 C:\Users\NELSON\Documents\C#Dev\HSN-Dropship\HSN Dropship\bin\Debug\MySql.Data.dll
-C:\Users\NELSON\Documents\C#Dev\HSN-Dropship\HSN Dropship\obj\Debug\HSN Dropship.csprojResolveAssemblyReference.cache
 C:\Users\NELSON\Documents\C#Dev\HSN-Dropship\HSN Dropship\obj\Debug\HSN_Dropship.HSNDropship.resources
 C:\Users\NELSON\Documents\C#Dev\HSN-Dropship\HSN Dropship\obj\Debug\HSN_Dropship.POVerify.resources
 C:\Users\NELSON\Documents\C#Dev\HSN-Dropship\HSN Dropship\obj\Debug\HSN_Dropship.Properties.Resources.resources

@@ -278,7 +278,7 @@
             this.Controls.Add(this.labelUploadStatus);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
-            this.MaximumSize = new System.Drawing.Size(160, 315);
+            this.MaximumSize = new System.Drawing.Size(160, 400);
             this.MinimizeBox = false;
             this.MinimumSize = new System.Drawing.Size(160, 315);
             this.Name = "HSNDropship";
@@ -289,7 +289,6 @@
             this.groupBoxMain.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
-            this.Load += new System.EventHandler(MySQLConnection.HSNDropship_Load);
 
         }
 

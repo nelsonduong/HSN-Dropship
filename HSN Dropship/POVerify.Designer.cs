@@ -36,6 +36,9 @@
             this.label1 = new System.Windows.Forms.Label();
             this.labelCheckStatus = new System.Windows.Forms.Label();
             this.labelUpdated = new System.Windows.Forms.Label();
+            this.buttonClearShipDate = new System.Windows.Forms.Button();
+            this.ShipDatePicker = new System.Windows.Forms.DateTimePicker();
+            this.buttonSetShipDate = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // textBoxPOVerify
@@ -70,7 +73,7 @@
             // 
             // buttonPOVHelp
             // 
-            this.buttonPOVHelp.Location = new System.Drawing.Point(150, 42);
+            this.buttonPOVHelp.Location = new System.Drawing.Point(150, 138);
             this.buttonPOVHelp.Name = "buttonPOVHelp";
             this.buttonPOVHelp.Size = new System.Drawing.Size(75, 23);
             this.buttonPOVHelp.TabIndex = 3;
@@ -106,11 +109,46 @@
             this.labelUpdated.TabIndex = 6;
             this.labelUpdated.Text = "Last Updated: ";
             // 
+            // buttonClearShipDate
+            // 
+            this.buttonClearShipDate.Location = new System.Drawing.Point(150, 42);
+            this.buttonClearShipDate.Name = "buttonClearShipDate";
+            this.buttonClearShipDate.Size = new System.Drawing.Size(75, 23);
+            this.buttonClearShipDate.TabIndex = 7;
+            this.buttonClearShipDate.Text = "Clear Date";
+            this.buttonClearShipDate.UseVisualStyleBackColor = true;
+            this.buttonClearShipDate.Click += new System.EventHandler(this.buttonClearShipDate_click);
+            // 
+            // ShipDatePicker
+            // 
+            this.ShipDatePicker.CustomFormat = "yyyy-MM-dd";
+            this.ShipDatePicker.Enabled = false;
+            this.ShipDatePicker.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.ShipDatePicker.Location = new System.Drawing.Point(150, 112);
+            this.ShipDatePicker.MaxDate = new System.DateTime(2020, 12, 31, 0, 0, 0, 0);
+            this.ShipDatePicker.MinDate = new System.DateTime(2000, 1, 1, 0, 0, 0, 0);
+            this.ShipDatePicker.Name = "ShipDatePicker";
+            this.ShipDatePicker.Size = new System.Drawing.Size(80, 20);
+            this.ShipDatePicker.TabIndex = 10;
+            // 
+            // buttonSetShipDate
+            // 
+            this.buttonSetShipDate.Location = new System.Drawing.Point(150, 71);
+            this.buttonSetShipDate.Name = "buttonSetShipDate";
+            this.buttonSetShipDate.Size = new System.Drawing.Size(75, 23);
+            this.buttonSetShipDate.TabIndex = 11;
+            this.buttonSetShipDate.Text = "Set Date";
+            this.buttonSetShipDate.UseVisualStyleBackColor = true;
+            this.buttonSetShipDate.Click += new System.EventHandler(this.buttonSetShipDate_click);
+            // 
             // POVerify
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(237, 269);
+            this.Controls.Add(this.buttonSetShipDate);
+            this.Controls.Add(this.ShipDatePicker);
+            this.Controls.Add(this.buttonClearShipDate);
             this.Controls.Add(this.labelUpdated);
             this.Controls.Add(this.labelCheckStatus);
             this.Controls.Add(this.label1);
@@ -141,5 +179,8 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label labelCheckStatus;
         private System.Windows.Forms.Label labelUpdated;
+        private System.Windows.Forms.Button buttonClearShipDate;
+        public System.Windows.Forms.DateTimePicker ShipDatePicker;
+        private System.Windows.Forms.Button buttonSetShipDate;
     }
 }
